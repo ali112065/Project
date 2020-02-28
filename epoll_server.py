@@ -1,5 +1,5 @@
 """
-epoll 方法实践
+第一种方案
 """
 from socket import *
 from select import *
